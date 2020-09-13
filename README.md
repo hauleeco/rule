@@ -1,1 +1,1 @@
-# rule
+# HasnatCET.rule
